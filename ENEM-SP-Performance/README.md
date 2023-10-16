@@ -1,7 +1,7 @@
 # Análise de dados da performance dos inscritos do ENEM em 2019 para o estado de SP
 
 
-- Neste projeto é elucidado o desempenho dos alunos para o estado de São Paulo de forma geral e também fragmentado por grupos, por exemplo, escolas públicas ou privadas, desempenho por raça/cor, gênero. Também é observada a distribuição dos dados para algumas características dos inscritos, por exemplo, idade.
+Neste projeto é elucidado o desempenho dos alunos para o estado de São Paulo de forma geral e também fragmentado por grupos, por exemplo, escolas públicas ou privadas, desempenho por raça/cor, gênero. Também é observada a distribuição dos dados para algumas características dos inscritos, por exemplo, idade.
 
 ---
 
