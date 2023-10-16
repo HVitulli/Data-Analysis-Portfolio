@@ -3,7 +3,7 @@
 Este dashboard foi feito em Power BI, utilizando os dados públicos do ENEM para o estado de São Paulo em 2019. <br>
 Os dados foram tratados previamente para ajuste do contexto e também para o tratamento de qualquer incosistência.
 
-Link do Dashboard: <a href="https://app.powerbi.com/view?r=eyJrIjoiNmJhNmY1NzQtMWQyZS00YTAyLTlhNjktNjdhNDhmZmViMDQxIiwidCI6IjkxMTQ1YWMzLTMwNmEtNDZiNi05OGMyLWUwNmVkYWUzNzAxOCJ9&pageName=ReportSection" target="_blank" rel="noopener noreferrer">Link</a>
+**Link do Dashboard: <a href="https://app.powerbi.com/view?r=eyJrIjoiNmJhNmY1NzQtMWQyZS00YTAyLTlhNjktNjdhNDhmZmViMDQxIiwidCI6IjkxMTQ1YWMzLTMwNmEtNDZiNi05OGMyLWUwNmVkYWUzNzAxOCJ9&pageName=ReportSection" target="_blank" rel="noopener noreferrer">Link</a>**
 
 ---
 
