@@ -5,7 +5,6 @@ Neste projeto é elucidado o desempenho dos alunos para o estado de São Paulo d
 
 ---
 
-- A base de dados original se encontra no link: clique aqui
 - Diretório python: Se encontra o tratamento desta base de dados, uma análise exploratória e uma análise infer6encia no formato de notebook de python
   - Tratamento de dados: [Link](https://github.com/HVitulli/Data-Analysis-Portfolio/blob/main/ENEM-SP-Performance/python/enem_sp_2019_tratamento_de_dados.ipynb)
   - Análise exploratória: [Link](https://github.com/HVitulli/Data-Analysis-Portfolio/blob/main/ENEM-SP-Performance/python/enem_sp_2019_EDA.ipynb)
