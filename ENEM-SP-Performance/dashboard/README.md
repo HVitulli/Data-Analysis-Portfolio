@@ -1,3 +1,3 @@
 Power BI Dashboard
 
-Link: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmJhNmY1NzQtMWQyZS00YTAyLTlhNjktNjdhNDhmZmViMDQxIiwidCI6IjkxMTQ1YWMzLTMwNmEtNDZiNi05OGMyLWUwNmVkYWUzNzAxOCJ9&pageName=ReportSection)
+Link: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmJhNmY1NzQtMWQyZS00YTAyLTlhNjktNjdhNDhmZmViMDQxIiwidCI6IjkxMTQ1YWMzLTMwNmEtNDZiNi05OGMyLWUwNmVkYWUzNzAxOCJ9&pageName=ReportSection){:target="_blank"}
