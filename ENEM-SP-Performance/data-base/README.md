@@ -1,6 +1,6 @@
 # Base de dados públicos do ENEM 2019 de SP
-## O arquivo Dicionário_Microdados_Enem_2019 é um dicionário com informações e explicações de todas as colunas da base de dados original.
-## Após o tratamento de dados temos a base de dados alterada para:
+### O arquivo Dicionário_Microdados_Enem_2019 é um dicionário com informações e explicações de todas as colunas da base de dados original.
+### Após o tratamento de dados temos a base de dados alterada para:
 <table>
   <tr>
     <th>NU_INSCRICAO</th>
