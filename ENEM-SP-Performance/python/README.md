@@ -24,4 +24,5 @@
 - Para este estudo foram utilizados grupos de amostras independentes e relativamente grandes
 - Teste de Lilliefors para cada amostra (N > 5000)
 - Teste de Mann Whitney para comprovação hipótese
+- - Caso prefira acessar o link pelo Google Colab [clique aqui.](https://colab.research.google.com/drive/1aRzfFbbQ0x_JbDZqLoCsCxs4iwT4B66a?usp=sharing)
   
